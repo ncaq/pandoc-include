@@ -14,7 +14,7 @@ pandoc --filter=pandoc-include
 
 ```md
 ~~~ {include="example.hs"}
-~~~
+​~~~
 ```
 
 # Authors
