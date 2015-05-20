@@ -20,6 +20,9 @@ pandoc --filter=pandoc-include
 # Authors
 
 pandoc-include
+
 Copyright (C) 2015 ncaq
+
 This program is GPLv2 or any later version.
+
 See COPYRIGHT for full copyright.

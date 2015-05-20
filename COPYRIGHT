@@ -1,8 +1,11 @@
 pandoc-include
+
 Copyright (C) 2015 ncaq
+
 This program is GPLv2 or any later version.
 
 pandoc-include use Pandoc.
+
 The folowing is Pandoc COPYRIGHT.
 
 ======================================================================
