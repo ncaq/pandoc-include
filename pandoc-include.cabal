@@ -6,7 +6,7 @@ version:             1.0.0.0
 synopsis:            pandoc-include
 -- description:
 homepage:            https://github.com/ncaq/pandoc-include
-license:             PublicDomain
+license:             GPL-2
 license-file:        LICENSE
 author:              ncaq
 maintainer:          ncaq@ncaq.net
